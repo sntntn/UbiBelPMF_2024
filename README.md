@@ -1,5 +1,13 @@
 # Academic life
 
+Academic Life is a game that simulates the challenges of student life. Your goal is to graduate as quickly as possible, but the road to graduation is not easy at all! Along the way, you encounter various obstacles - vices and distractions that slow down your progress, but also useful things that can help you and make you more efficient. Your task is to recognize what helps you and what hinders you, and to make the right decisions at the right time.
+
+In addition, in order to progress through the game, you have to solve mathematical equations that the game sets for you. Each correctly solved equation brings you closer to graduation, while wrong answers send you back and bring additional challenges.
+
+Can you avoid the pitfalls of academic life, stay on track, think fast, and graduate before exhaustion and bad decisions take over?
+
+# University Course Project
+
 University course project at Faculty of Mathematics, University of Belgrade. <br>
 The goal of this simple 2D game is to collect 240 ECTS/ESPB as fast as possible. while maintaining the health value over -100. <br>
 If player's health drops below -100 or if the number of ECTS/ESPB is below 0 the game ends with a failure. <br>
